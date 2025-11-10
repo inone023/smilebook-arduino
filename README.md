@@ -41,9 +41,6 @@ RC522 RFID 리더기, PIR 센서, LED, 부저를 이용하여
 ⇅
 [Android Client]
 
-yaml
-코드 복사
-
 ---
 
 ## 💡 개발 환경
@@ -68,8 +65,8 @@ yaml
 ---
 
 ## 🧾 관련 프로젝트
-- [🌐 SmileBook-API (Server)](https://github.com/yourusername/smilebook-api)
-- [📱 SmileBook-Android (App)](https://github.com/yourusername/smilebook-android)
+- [🌐 SmileBook-API (Server)](https://github.com/inone023/smilebook-api)
+- [📱 SmileBook-Android (App)](https://github.com/inone023/smilebook-android)
 
 ---
 
